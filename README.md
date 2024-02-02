@@ -2,7 +2,7 @@
 
 This repository contains the Pytorch implementations of the paper submitted to Pattern Recognition 2024:
 
-Yaxin Hou, Weiping Ding, Chongsheng Zhang. Deep Imbalance Learning via Fuzzy Set Theory and Prototypical Learning. Pattern Recognition 2024. &nbsp; &nbsp;[Paper]()
+Yaxin Hou, Weiping Ding, Chongsheng Zhang. Deep Imbalance Learning via Fuzzy Transition and Prototypical Learning. Pattern Recognition 2024. &nbsp; &nbsp;[Paper]()
 
 ## Introduction
  
@@ -80,7 +80,7 @@ If you find our method useful, please consider citing our paper:
 
   ```
   @inproceedings{imFTP2023,
-    title={Deep Imbalance Learning via Fuzzy Set Theory and Prototypical Learning},
+    title={Deep Imbalance Learning via Fuzzy Transition and Prototypical Learning},
     author={Yaxin Hou and Weiping Dingand Chongsheng Zhang},
     booktitle={Pattern Recognition},
     year={2024},
