@@ -1,4 +1,4 @@
-# Deep Imbalance Learning via Fuzzy Set Theory and Prototypical Learning (imFTP, Pattern Recognition 2024)
+# Deep Imbalance Learning via Fuzzy Transition and Prototypical Learning (imFTP, Pattern Recognition 2024)
 
 This repository contains the Pytorch implementations of the paper submitted to Pattern Recognition 2024:
 
