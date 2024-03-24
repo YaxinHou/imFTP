@@ -82,7 +82,7 @@ If you find our method useful, please consider citing our paper:
   @inproceedings{imFTP2023,
     title={Deep Imbalance Learning via Fuzzy Transition and Prototypical Learning},
     author={Yaxin Hou and Weiping Dingand Chongsheng Zhang},
-    booktitle={Pattern Recognition},
+    booktitle={Information Sciences},
     year={2024},
   }
   ```
