@@ -79,7 +79,7 @@ Under the folder “trained_model”, we have uploaded our trained models for th
 If you find our method useful, please consider citing our paper:
 
   ```
-  @inproceedings{imFTP2023,
+  @inproceedings{imFTP2024,
     title={Deep Imbalance Learning via Fuzzy Transition and Prototypical Learning},
     author={Yaxin Hou and Weiping Dingand Chongsheng Zhang},
     booktitle={Information Sciences},
