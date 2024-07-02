@@ -8,7 +8,7 @@ Yaxin Hou, Weiping Ding, Chongsheng Zhang. imFTP: Deep Imbalance Learning via Fu
  
 This work (imFTP) aims to 
 
-![image](model/model.png)
+![image](model/model.jpg)
 
 Abstract: 
 
