@@ -6,11 +6,11 @@ Yaxin Hou, Weiping Ding, Chongsheng Zhang. imFTP: Deep Imbalance Learning via Fu
 
 ## Introduction
  
-This work (imFTP) aims to 
+This work (imFTP) aims to use fuzzy theory and prototypical learning for improving the imbalance learning performance.
 
 ![image](model/model.jpg)
 
-Abstract: 
+Abstract: Although many methods have been proposed for tackling the class-imbalance problem, they still suffer from the insufficient feature representative capability and the overfitting problem. This paper proposes a new deep imbalance learning approach based on the Fuzzy set Theory and the Prototypical learning mechanism, abbreviated as imFTP for short, which consists of an adaptive smooth sampling module, a self-learnable prototypical learning module, and a fuzzy transition module. The adaptive smooth sampling module adaptively adjusts the sampling frequency of different classes to ensure their adequate opportunity to participate in the training process, which can mitigate the overfitting problem. The self-learnable prototypical learning module devises a clustering distance based Softmax cross-entropy loss and an intra-class clustering loss to improve the feature representation and discrimination capability of the model. The fuzzy transition module utilizes the fuzzy set theory to transform sample features effectively, which further enhances the feature representation capability of the model, meanwhile alleviates the overfitting problem. Experimental results on 15 benchmark datasets demonstrate that our method outperforms the best competitor by more than 3% in terms of the Macro-F1 metric, which is very significant.
 
 ## Prerequisites
 
