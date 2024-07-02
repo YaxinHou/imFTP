@@ -50,7 +50,7 @@ All codes are written by Python 3.8 with:
    │
    ├──imFTP_TRAIN.py
    ├──imFTP_TEST.py
-   └──README.MD
+   └──README.md
 ```   
   
 ## Train
