@@ -1,6 +1,6 @@
 # imFTP: Deep Imbalance Learning via Fuzzy Transition and Prototypical Learning (imFTP, Information Sciences 2024)
 
-This repository contains the Pytorch implementations of the paper submitted to Information Sciences 2024:
+This repository contains the Pytorch implementations of the paper accepted by Information Sciences 2024:
 
 Yaxin Hou, Weiping Ding, Chongsheng Zhang. imFTP: Deep Imbalance Learning via Fuzzy Transition and Prototypical Learning. Information Sciences 2024. &nbsp; &nbsp;[Paper](https://www.sciencedirect.com/science/article/pii/S002002552400985X?via%3Dihub)
 
